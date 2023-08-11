@@ -1,0 +1,26 @@
+- API Versions?
+- Calendar ruler
+- Little blurb from me
+- Use SQLite as database
+- Online chump editor
+  - Update fields dynamically
+  - Cron job / url to update current streak?
+- Weather
+- Comments per chump
+- Google meatadata
+- WHat should be static / server / client
+  - PAge itself generated, comments on the fly?
+  - Cant be static if read from SQlite, but can be SSR
+  - Main layout - SSR, comments CSR
+- Readd and fix / shorten HTML shitpost
+- Secret shitposting page?
+- Other links
+- MOre than one link for a chump
+- STats
+- ALlow better videos
+- More than one image, one headline image
+- XML / RSS feed dynamically generated
+- ALlow Real REST API frombooks
+  - Resorce based
+  - different representations
+- Push to Twitter on new chump?
